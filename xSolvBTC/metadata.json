@@ -1,6 +1,6 @@
 {
-"name": “xSolvBTC",
-"symbol": “xSolvBTC",
-"description": "xSolvBTC is a yield-bearing Bitcoin, representing staked Bitcoin in the Babylon ecosystem. It enables users to earn staking rewards from Babylon while unlocking liquidity and additional yields in the DeFi ecosystem.",
-"image": “https://github.com/solv-finance/solv-resources/blob/main/xSolvBTC%20Logo%20Kit/xSolvBTC32.png”
+  "name": "xSolvBTC",
+  "symbol": "xSolvBTC",
+  "description": "xSolvBTC is a yield-bearing Bitcoin, representing staked Bitcoin in the Babylon ecosystem. It enables users to earn staking rewards from Babylon while unlocking liquidity and additional yields in the DeFi ecosystem.",
+  "image": "https://github.com/solv-finance/solv-resources/blob/main/xSolvBTC%20Logo%20Kit/xSolvBTC32.png"
 }

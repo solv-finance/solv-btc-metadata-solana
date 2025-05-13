@@ -1,6 +1,6 @@
 {
-"name": “SolvBTC.JUP",
-"symbol": “SolvBTC.JUP",
-"description": "SolvBTC.JUP is a liquid yield-bearing Bitcoin, allowing users to participate in a delta-neutral trading strategy by providing liquidity to the Jupiter Liquidity Provider (JLP) Pool.",
-"image": “https://github.com/solv-finance/solv-resources/blob/main/SolvBTC%20Logo%20kit/SolvBTC.JUP.png”
+  "name": "SolvBTC.JUP",
+  "symbol": "SolvBTC.JUP",
+  "description": "SolvBTC.JUP is a liquid yield-bearing Bitcoin, allowing users to participate in a delta-neutral trading strategy by providing liquidity to the Jupiter Liquidity Provider (JLP) Pool.",
+  "image": "https://github.com/solv-finance/solv-resources/blob/main/SolvBTC%20Logo%20kit/SolvBTC.JUP.png"
 }
